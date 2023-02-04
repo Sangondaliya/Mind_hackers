@@ -6,7 +6,7 @@ Designing a tool that uses computer vision to provide real-time captioning and t
 for students with hearing or language impairments or any other physical disabilities.
 
 # Proposed Solution
-We propose a solution which will provide for people that are blind and visually impaired and deaf with hearing impairement. We will use tools like openCV, MediaPipe and Tensorflow for computer vision where we can provide video files as input and recognize the audio/content by using lip recognition using Dlib (proposed) and Gesture Recognition to understand Sign Language which will convert it using AV-ASR and translate it to text/caption for deaf students. We are also providing login into the app as audio for blind people. Blind people can also input instructions using their speech.
+We propose a solution which will provide for people that are blind and visually impaired and deaf with hearing impairment. We will use tools like openCV, MediaPipe and Tensorflow for computer vision where we can provide video files as input and recognize the audio/content by using lip recognition using Dlib (proposed) and Gesture Recognition to understand Sign Language which will convert it using AV-ASR and translate it to text/caption for deaf students. We are also providing login into the app as audio for blind people. Blind people can also input instructions using their speech to operate their computer.
 
 # Back Study
 Important statistics to consider:
