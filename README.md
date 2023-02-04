@@ -40,4 +40,8 @@ Closed captions were originally developed to help the hearing impaired. Language
 References:
 1. https://www.jstor.org/stable/26234914
 2. https://brailleworks.com/braille-literacy-statistics/
-3. 
+3. https://www.kaggle.com/datasets/innominate817/hagrid-sample-30k-384p
+4. https://developers.google.com/mediapipe/solutions/vision/hand_landmarker/python
+5. https://techvidvan.com/tutorials/hand-gesture-recognition-tensorflow-opencv/
+6. https://developers.google.com/mediapipe/solutions/vision/gesture_recognizer/python
+7. https://pypi.python.org/packages/da/06/bd3e241c4eb0a662914b3b4875fc52dd176a9db0d4a2c915ac2ad8800e9e/dlib-19.7.0-cp36-cp36m-win_amd64.whl#md5=b7330a5b2d46420343fbed5df69e6a3f
