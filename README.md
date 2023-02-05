@@ -45,3 +45,11 @@ References:
 5. https://techvidvan.com/tutorials/hand-gesture-recognition-tensorflow-opencv/
 6. https://developers.google.com/mediapipe/solutions/vision/gesture_recognizer/python
 7. https://pypi.python.org/packages/da/06/bd3e241c4eb0a662914b3b4875fc52dd176a9db0d4a2c915ac2ad8800e9e/dlib-19.7.0-cp36-cp36m-win_amd64.whl#md5=b7330a5b2d46420343fbed5df69e6a3f
+8. https://crownschool.uchicago.edu/ssa_magazine/sign-language-best-deaf-children.html
+9. hassanhub/LipReading
+10. LipReading/demo at master · hassanhub/LipReading
+11. LipReading/demo/autoencoder (targets to network) at master · hassanhub/LipReading
+12. LipReading/demo/autoencoder (targets to network)/coded_decoded at master · hassanhub/LipReading
+13. LipReading/codes at master · hassanhub/LipReading
+14. deep_lip_reading/requirements.txt at master · afourast/deep_lip_reading
+15. nicknochnack/LipNet
