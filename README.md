@@ -1,4 +1,4 @@
-# Mili_Mind_hackers
+# Mind_hackers
 DAIICT Hackathon DCEI 3/2/23 - 5/2/23
 
 # The problem Statement:
